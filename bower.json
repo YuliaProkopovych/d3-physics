@@ -1,0 +1,8 @@
+{
+  "name": "entropy",
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "d3":"~3.5.0"
+  }
+}
